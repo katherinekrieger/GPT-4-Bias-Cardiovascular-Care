@@ -1,4 +1,5 @@
 # GPT-4-Bias-Cardiovascular-Care
+This repository accompanies the manuscript Large Language Model Bias in Cardiovascular Healthcare 
 
 ## Overview
 The data is available in the two folders. They are divided by:
